@@ -4,7 +4,7 @@
 
 enum ai_choice
 {
-    ROCK = 1, PAPER = 2, SCISSORS = 3;
+    ROCK = 1, PAPER = 2, SCISSORS = 3
 };
 
 int main()
